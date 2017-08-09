@@ -1,9 +1,8 @@
 # linux reference
 ---
 
-[approaches 常用小技巧](https://github.com/LittleChell/linux/tree/master/docs/approaches.md)
+[install 安装相关指引](https://github.com/LittleChell/linux/tree/master/docs/install.md)
 
-[logs for problems 常见问题解决方式记录](https://github.com/LittleChell/linux/tree/master/docs/logs%20for%20problems.md)
 
 
 
