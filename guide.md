@@ -1,5 +1,4 @@
 # linux reference
----
 
 #####	安装相关指引
 [install](https://github.com/LittleChell/linux/tree/master/docs/install.md)
